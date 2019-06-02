@@ -1,4 +1,9 @@
 /better-portal_Client.launch
 /better-portal_Server.launch
 /pull.bat
-/run/*
+/run/
+/.gradle/
+/.metadata/
+/.settings/
+/.vs/
+/bin/
